@@ -2,8 +2,11 @@
 
 JavaScriptで作成したストップウォッチアプリです。
 
-## Demo
+## デモ
 https://rikusugihara.github.io/stopwatch-app/
+
+## スクリーンショット
+
 
 ## 機能
 - スタート / ストップ / リセット
