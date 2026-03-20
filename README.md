@@ -6,7 +6,7 @@ JavaScriptで作成したストップウォッチアプリです。
 https://rikusugihara.github.io/stopwatch-app/
 
 ## スクリーンショット
-
+![Todo App](images/screenshot.png)
 
 ## 機能
 - スタート / ストップ / リセット
